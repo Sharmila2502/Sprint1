@@ -1,3 +1,0 @@
-This is a sample text file.
-DataWriter is being tested.
-The file is created using Python.
