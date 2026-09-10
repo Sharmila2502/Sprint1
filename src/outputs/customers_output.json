@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Arun",
+        "city": "Coimbatore",
+        "balance": 50000
+    },
+    {
+        "id": 2,
+        "name": "Meena",
+        "city": "Ooty",
+        "balance": 75000
+    },
+    {
+        "id": 3,
+        "name": "Ravi",
+        "city": "Chennai",
+        "balance": 40000
+    }
+]
